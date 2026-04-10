@@ -18,14 +18,7 @@ This project investigates whether athletes face more positive or negative engage
 ## Repository Structure
 
 ```
-├── data/
-│   └── B50_INS_COMMENT.csv       # Raw Instagram comment dataset (Sheet1)
-├── analysis/
-│   └── keyword_analysis.py       # Main analysis script (pandas keyword coding)
-├── visualizations/
-│   ├── GeauxTigers_Charts.html   # Interactive chart file (Chart.js)
-│   └── GeauxTigers_Charts.pdf    # Print-ready chart export
-├── GeauxTigers_PLAN.md           # Full research plan and methodology
+├── Project 3 - Geaux Tigers KIN 7518.pdf   # Full research plan and methodology
 └── README.md
 ```
 
